@@ -1,0 +1,3 @@
+rs := import("quran.rs");
+
+()-> rs.quran()

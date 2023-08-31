@@ -1,0 +1,25 @@
+=====================================
+./src/quran.rs  quran_data()
+=====================================
+quran data is a modified version of the Quran data downloaded from the following link in text format:
+    https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/%D8%A7%D9%84%D9%86%D8%B5_%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%88%D9%84
+
+the original downloaded text file has the following notice:
+
+About this digital edition
+This e-book comes from the online library Wikisource[1]. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose {including commercial exploitation}, under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported[2] license or, at your choice, those of the GNU FDL[3].
+Wikisource is constantly looking for new members. During the realization of this book, it's possible that we made some errors. You can report them at this page[4].
+The following users contributed to this book:
+Obayd
+AzaToth
+* * *
+↑ https://wikisource.org
+↑ https://www.creativecommons.org/licenses/by-sa/3.0
+↑ https://www.gnu.org/copyleft/fdl.html
+↑ https://wikisource.org/wiki/Wikisource:Scriptorium
+
+
+=====================================
+END
+=====================================
